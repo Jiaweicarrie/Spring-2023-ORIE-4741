@@ -1,5 +1,3 @@
-Mobile Game Spending Prediction 
-
 Project Name: Mobile Game Spending Prediction； https://github.com/Jiaweicarrie/ORIE5741proj
 
 Project type: Data analysis
